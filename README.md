@@ -1,50 +1,30 @@
-\# Fastfetch Config
+# Fastfetch Config
 
+![Windows](https://img.shields.io/badge/OS-Windows%2011-blue)
+![Terminal](https://img.shields.io/badge/Terminal-Windows%20Terminal-black)
+![Fastfetch](https://img.shields.io/badge/Fastfetch-Config-purple)
 
+Minimal Windows Fastfetch setup using a Catppuccin-inspired theme.
 
-My minimal Windows Fastfetch setup.
+## Preview
 
+![preview](preview.png)
 
+## Info
 
-\## Preview
+* **OS:** Windows 11
+* **Terminal:** Windows Terminal
+* **Font:** Cascadia Mono
+* **Theme:** Catppuccin (custom)
 
+## Install
 
-
-!\[preview](preview.png)
-
-
-
-\## Info
-
-
-
-\* OS: Windows 11
-
-\* Terminal: Windows Terminal
-
-\* Font: Cascadia Mono
-
-\* Theme: Catppuccin(custom)
-
-
-
-\## Install
-
-
-
-Clone the repo:
-
-
-
+```bash
 git clone https://github.com/Gagandeeprai/fastfetch-config
+```
 
+Copy `config.jsonc` to:
 
-
-Copy the config to:
-
-
-
-C:\\Users\\YOUR\_USERNAME.config\\fastfetch
-
-
-
+```
+C:\Users\YOUR_USERNAME\.config\fastfetch
+```
